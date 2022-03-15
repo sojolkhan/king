@@ -2,7 +2,7 @@ Skip
 to
 content
 Search or jump
-to…
+to
 Pull
 requests
 Issues
