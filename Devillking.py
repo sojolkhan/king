@@ -10,45 +10,9 @@ Marketplace
 Explore
 
 
-@sojolkhan
-
-
-Devillking
-/
-Devillking
-Public
-Code
-Issues
-Pull
-requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Devillking / Devillking.py /
-
-
 @Devillking
 
 
-Devillking
-Update
-Devillking.py
-Latest
-commit
-76
-da1f5
-on
-Feb
-12
-History
-1
-contributor
-275
-lines(238
-sloc)  8.08
-KB
 
 # uncompyle6 version 3.8.0
 # Python bytecode 2.7 (62211)
@@ -58,9 +22,9 @@ KB
 
 # Embedded file name: /storage/emulated/0/bcp7days.py
 # Compiled at: 2022-01-19 11:21:23
-import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
+#import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
-os.system('rm -rf .txt')
+#os.system('rm -rf .txt')
 
 
 def psb(z):
@@ -390,8 +354,8 @@ def action():
 if __name__ == '__main__':
     menu()
 # okay decompiling Devillking.pyc
-© 2022
-GitHub, Inc.
+#© 2022
+#GitHub, Inc.
 Terms
 Privacy
 Security
