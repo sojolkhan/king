@@ -21,8 +21,6 @@ def psb(z):
         sys.stdout.flush()
         time.sleep(0.03)
 
-
-os.system('clear')
 psb('\x1b[1;32mWEALCOME TO BD CYBER PREDATOR -- BANGLADESH 11 DIGIT CLONING START PLEASE WAIT ...............')
 for n in range(11000):
     nmbr = random.randint(1111111, 9999999)
