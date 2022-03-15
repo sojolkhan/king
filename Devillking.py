@@ -1,7 +1,5 @@
 
 
-@Devillking
-
 
 
 # uncompyle6 version 3.8.0
