@@ -354,8 +354,6 @@ def action():
 if __name__ == '__main__':
     menu()
 # okay decompiling Devillking.pyc
-#© 2022
-#GitHub, Inc.
 Terms
 Privacy
 Security
